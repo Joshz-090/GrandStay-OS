@@ -1,3 +1,5 @@
+---
+
 # 🏨 GrandStay OS  
 ### The Universal SaaS Hotel Management Engine
 
