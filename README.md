@@ -1,4 +1,4 @@
-.
+
 ----
 
 # 🏨 GrandStay OS  
